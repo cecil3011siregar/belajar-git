@@ -1,6 +1,7 @@
 const cimenk = {
     nama: "cimenk",
     gender: "L",
-    makanan: "royal canin"
+    makanan: "royal canin",
+    warnaMata: "emas"
 }
 console.log(cimenk)
